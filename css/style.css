@@ -1,0 +1,33 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville:wght@700&display=swap');
+
+
+ 
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+font-family: 'Libre Baskerville', serif;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 10px;
+    border: 2px solid rgb(33, 33, 137);
+    border-radius: 10px;
+    cursor: pointer;
+    width: 60px;
+}
+.b2{
+    width: 140px;
+}
+.row{
+    padding: 10px 0;
+}
+.row-input input {
+    padding: 13px 20px;
+    margin: 0px;
+    border: 2px solid rgb(33, 33, 137);
+    border-radius: 12px;
+    font-size: 18px;
+}
